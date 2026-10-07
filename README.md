@@ -480,3 +480,9 @@ Next.js
 * Context API
 * Tailwind CSS
 * React → Next.js Migration
+
+---
+
+## 👨‍💻 Deploy
+
+https://shoesshop-next.vercel.app/
